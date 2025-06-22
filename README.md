@@ -1,1 +1,2 @@
-# mmc6278-6-6-buteau-nayllah
+# Module 6 Assignment: Handlebars
+Use handlebars templating enginge in a Node server application
